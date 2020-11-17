@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7de759b0-6b01-48da-8d39-981ce76a38ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k3gk0DKrWo8VbylBQPBMfygbwK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\cpp-programming\2Cats" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de759b0-6b01-48da-8d39-981ce76a38ec" name="Default Changelist" comment="" />
+      <created>1604934827452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604934827452</updated>
+      <workItem from="1604934828772" duration="29000" />
+      <workItem from="1604934970420" duration="882000" />
+      <workItem from="1605067227454" duration="896000" />
+      <workItem from="1605075360018" duration="71000" />
+      <workItem from="1605103377727" duration="2856000" />
+      <workItem from="1605109281160" duration="569000" />
+      <workItem from="1605113348825" duration="1105000" />
+      <workItem from="1605266008317" duration="8725000" />
+      <workItem from="1605336905720" duration="8853000" />
+      <workItem from="1605505109464" duration="7879000" />
+      <workItem from="1605518374621" duration="21304000" />
+      <workItem from="1605578844858" duration="1262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604935144715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604935144715" />
+    <state width="432" height="466" key="DebuggerActiveHint" timestamp="1605341392753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="432" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1605341392753" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="212" key="GridCell.Tab.1.bottom" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="212" key="GridCell.Tab.1.center" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="212" key="GridCell.Tab.1.left" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="212" key="GridCell.Tab.1.right" timestamp="1605550262447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605550262447" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1605109102558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605109102558" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1605109102558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1605109102558" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1605109102558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1605109102558" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1605109102558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1605109102558" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1605067412732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605067412732" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605580115534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605580115534" />
+    <state x="762" y="0" width="781" height="830" key="dock-window-1" timestamp="1605506974886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="762" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1605506974886" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605537044928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605537044928" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/2Cats/Fabric/main.cpp</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

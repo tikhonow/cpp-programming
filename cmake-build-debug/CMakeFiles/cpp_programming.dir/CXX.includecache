@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/projects/cpp-programming/2Cats/GameDatabase/game_database.h
+string
+-
+vector
+-
+map
+-
+set
+-
+unordered_map
+-
+unordered_set
+-
+
+/mnt/d/projects/cpp-programming/2Cats/GameDatabase/main.cpp
+cstdlib
+-
+iostream
+-
+vector
+-
+string
+-
+game_database.h
+/mnt/d/projects/cpp-programming/2Cats/GameDatabase/game_database.h
+
