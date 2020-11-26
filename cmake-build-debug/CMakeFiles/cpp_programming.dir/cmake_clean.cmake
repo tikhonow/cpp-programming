@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cpp_programming.dir/2Cats/GameDatabase/main.cpp.o"
+  "CMakeFiles/cpp_programming.dir/3Cats/Initialize_vector/main.cpp.o"
   "cpp_programming"
   "cpp_programming.pdb"
 )
